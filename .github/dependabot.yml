@@ -1,4 +1,4 @@
-version: 2
+version:en  2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
